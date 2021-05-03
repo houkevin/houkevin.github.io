@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kevin Hou"
   avatar           : "profile_picture.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  # location         : "Location"
+  bio              : 
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            :  "houkevin089@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
