@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Classes Taken"
 permalink: /cv/
 author_profile: true
 redirect_from:
