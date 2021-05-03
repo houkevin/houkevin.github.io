@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Hou"
+title                    : "Kevin Hou's Website"
 title_separator          : "-"
 name                     : &name "Kevin Hou"
 description              : &description "personal description"
