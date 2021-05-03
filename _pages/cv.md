@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* EECS 281: Algorithms and Data Structures
+* Math 116: Calculus II 
+* Math 215: Calculus III 
+* EECS 203: Discrete Mathematics 
+* EECS 376: Foundations of Computer Science 
+* Stats 250: Introduction Statistics & Data Analysis 
+* EECS 370: Introduction to Computer Organization 
+* EECS 285: Java Programming 
+* EECS 280: Programming and Introductory Data Structures 
+* EECS 485: Web Systems
+* EECS 484: Database Management Systems
+* EECS 497: Human-Centered Software
+* EECS 482: Introduction to Operating Systems
+* EECS 476: Data Mining
+* EECS 388: Introduction to Computer Security
