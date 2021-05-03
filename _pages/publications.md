@@ -17,7 +17,9 @@ Music Player (Fullstack) August 2020 - September 2020
 Popular Movies May 2020 - May 2020
 ======
 * Queried non-relational data to and from MongoDB on a list of movies and performed MapReduce to get the most popular using Scala.
+
 Fibonacci Calculator May 2020 - May 2020
+======
 * Created Fibonacci calculator web app using Node JS
 * Set up Travis CI by configuring a Travis.yml file to allow for automatic build creation
 * Used AWS Elastic Beanstalk for deployment
