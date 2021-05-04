@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+Movie Recommendation System Feb 2021 – Apr 2021
+======
+* Done in Python
+* Created a movie recommendation system based on the data set from MovieLens.
+* Used K-means and Hierarchical Agglomerative clustering along with Louvain Community Detection to classify users into groups.
+* Recommend for a given user movies based on the group they belong to with the two clustering algorithms if they already have some watching history. If the user has no previous watching history, then recommend them the top movies from each group classified by the community detection algorithm.
+
+Man-In-The-Middle Attack Feb 2021 – Mar 2021
+======
+* Done in Python
+* When a client queries a DNS record for bank.com, the program sends a spoofed response containing the attacker's address. This is sent in under 2 seconds to beat the real DNS server's response.
+* Whenever a client makes a POST request to the bank's /login endpoint, the program steals the username and password of the client.
+* Whenever a client makes a POST request to the bank's /transfer endpoint, the program changes the to parameter in the body to Jason when forwarding the request to the bank. When responding to the client the program reverses the change so the to parameter contains the value which the client actually sent.
+* Whenever the client makes a GET request to the bank's /download endpoint, the program steals any file that the server provides.
+
 Music Player (Fullstack) August 2020 - September 2020
 ======
 * Created using PHP, JS, and MySQL
